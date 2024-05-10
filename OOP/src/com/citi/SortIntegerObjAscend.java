@@ -2,7 +2,7 @@ package com.citi;
 
 import java.util.TreeSet;
 
-public class AscendingOrderComparator {
+public class SortIntegerObjAscend {
 
 	public static void main(String[] args) {
 		TreeSet<Integer> treeSet = new TreeSet<Integer>(new MyComparatorForAscend());
